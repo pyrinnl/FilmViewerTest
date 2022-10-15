@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FilmViewerTest</string>
+    <string name="current_town_placeholder">Москва</string>
+    <string name="shopping_cart_title">Корзина</string>
+    <string name="profile_title">Профиль</string>
+    <string name="menu_title">Меню</string>
+
+    <string name="connection_error_item_title">Ошибка соединения</string>
+    <string name="connection_error_item_desc">Проверьте ваше интернет соединение</string>
+    <string name="retry_button">Повторить попытку</string>
+</resources>
